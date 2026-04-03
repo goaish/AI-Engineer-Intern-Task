@@ -8,6 +8,12 @@ The system takes a product webpage URL as input, extracts textual data (treated 
 
 ---
 
+##  Demo Video
+
+https://www.loom.com/share/3f55750330aa4af6aecd1a01352a4cca
+
+---
+
 ##  Objective
 
 The objective of this project is to:
@@ -190,12 +196,6 @@ Amazon and similar platforms block automated scraping. Therefore, a test website
 - Build a UI dashboard (e.g., Streamlit)  
 - Store results in a database instead of CSV  
 - Improve preprocessing (stopword removal, normalization)  
-
----
-
-##  Demo Video
-
-https://www.loom.com/share/3f55750330aa4af6aecd1a01352a4cca
 
 ---
 
