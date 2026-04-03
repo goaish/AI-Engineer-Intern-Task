@@ -195,7 +195,7 @@ Amazon and similar platforms block automated scraping. Therefore, a test website
 
 ##  Demo Video
 
-(Attach your video link here)
+https://www.loom.com/share/3f55750330aa4af6aecd1a01352a4cca
 
 ---
 
